@@ -7,7 +7,7 @@
 - Revisão aula anterior
   - Números, Strings
   - Variáveis
-    - Mudar vaiáveis *in-place*
+    - Mudar variáveis *in-place*
 - Listas
   - indexação
   - append e pop
